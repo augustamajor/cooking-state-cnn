@@ -1,1 +1,1 @@
-# cooking-state-cnn
+# cooking-state-cnn-gru-model
