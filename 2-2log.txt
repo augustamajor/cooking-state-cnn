@@ -1,0 +1,1310 @@
+Below are the epochs:
+Epoch 1/400
+9/9 [==============================] - ETA: 0s - loss: 0.0591 - mse: 0.0591
+Epoch 00001: val_mse improved from inf to 0.02486, saving model to model.h5
+9/9 [==============================] - 12s 725ms/step - loss: 0.0591 - mse: 0.0591 - val_loss: 0.0249 - val_mse: 0.0249
+Epoch 2/400
+9/9 [==============================] - ETA: 0s - loss: 0.0412 - mse: 0.0412
+Epoch 00002: val_mse improved from 0.02486 to 0.01864, saving model to model.h5
+9/9 [==============================] - 5s 535ms/step - loss: 0.0412 - mse: 0.0412 - val_loss: 0.0186 - val_mse: 0.0186
+Epoch 3/400
+9/9 [==============================] - ETA: 0s - loss: 0.0303 - mse: 0.0303
+Epoch 00003: val_mse improved from 0.01864 to 0.01544, saving model to model.h5
+9/9 [==============================] - 5s 534ms/step - loss: 0.0303 - mse: 0.0303 - val_loss: 0.0154 - val_mse: 0.0154
+Epoch 4/400
+9/9 [==============================] - ETA: 0s - loss: 0.0235 - mse: 0.0235
+Epoch 00004: val_mse improved from 0.01544 to 0.01277, saving model to model.h5
+9/9 [==============================] - 5s 534ms/step - loss: 0.0235 - mse: 0.0235 - val_loss: 0.0128 - val_mse: 0.0128
+Epoch 5/400
+9/9 [==============================] - ETA: 0s - loss: 0.0188 - mse: 0.0188
+Epoch 00005: val_mse improved from 0.01277 to 0.01036, saving model to model.h5
+9/9 [==============================] - 5s 539ms/step - loss: 0.0188 - mse: 0.0188 - val_loss: 0.0104 - val_mse: 0.0104
+Epoch 6/400
+9/9 [==============================] - ETA: 0s - loss: 0.0160 - mse: 0.0160
+Epoch 00006: val_mse improved from 0.01036 to 0.00966, saving model to model.h5
+9/9 [==============================] - 5s 539ms/step - loss: 0.0160 - mse: 0.0160 - val_loss: 0.0097 - val_mse: 0.0097
+Epoch 7/400
+9/9 [==============================] - ETA: 0s - loss: 0.0144 - mse: 0.0144
+Epoch 00007: val_mse improved from 0.00966 to 0.00923, saving model to model.h5
+9/9 [==============================] - 5s 537ms/step - loss: 0.0144 - mse: 0.0144 - val_loss: 0.0092 - val_mse: 0.0092
+Epoch 8/400
+9/9 [==============================] - ETA: 0s - loss: 0.0134 - mse: 0.0134
+Epoch 00008: val_mse improved from 0.00923 to 0.00897, saving model to model.h5
+9/9 [==============================] - 5s 534ms/step - loss: 0.0134 - mse: 0.0134 - val_loss: 0.0090 - val_mse: 0.0090
+Epoch 9/400
+9/9 [==============================] - ETA: 0s - loss: 0.0126 - mse: 0.0126
+Epoch 00009: val_mse improved from 0.00897 to 0.00885, saving model to model.h5
+9/9 [==============================] - 5s 532ms/step - loss: 0.0126 - mse: 0.0126 - val_loss: 0.0089 - val_mse: 0.0089
+Epoch 10/400
+9/9 [==============================] - ETA: 0s - loss: 0.0121 - mse: 0.0121
+Epoch 00010: val_mse improved from 0.00885 to 0.00880, saving model to model.h5
+9/9 [==============================] - 5s 536ms/step - loss: 0.0121 - mse: 0.0121 - val_loss: 0.0088 - val_mse: 0.0088
+Epoch 11/400
+9/9 [==============================] - ETA: 0s - loss: 0.0120 - mse: 0.0120
+Epoch 00011: val_mse did not improve from 0.00880
+9/9 [==============================] - 5s 532ms/step - loss: 0.0120 - mse: 0.0120 - val_loss: 0.0089 - val_mse: 0.0089
+Epoch 12/400
+9/9 [==============================] - ETA: 0s - loss: 0.0115 - mse: 0.0115
+Epoch 00012: val_mse improved from 0.00880 to 0.00870, saving model to model.h5
+9/9 [==============================] - 5s 537ms/step - loss: 0.0115 - mse: 0.0115 - val_loss: 0.0087 - val_mse: 0.0087
+Epoch 13/400
+9/9 [==============================] - ETA: 0s - loss: 0.0113 - mse: 0.0113
+Epoch 00013: val_mse improved from 0.00870 to 0.00866, saving model to model.h5
+9/9 [==============================] - 5s 538ms/step - loss: 0.0113 - mse: 0.0113 - val_loss: 0.0087 - val_mse: 0.0087
+Epoch 14/400
+9/9 [==============================] - ETA: 0s - loss: 0.0111 - mse: 0.0111
+Epoch 00014: val_mse improved from 0.00866 to 0.00853, saving model to model.h5
+9/9 [==============================] - 5s 545ms/step - loss: 0.0111 - mse: 0.0111 - val_loss: 0.0085 - val_mse: 0.0085
+Epoch 15/400
+9/9 [==============================] - ETA: 0s - loss: 0.0107 - mse: 0.0107
+Epoch 00015: val_mse improved from 0.00853 to 0.00847, saving model to model.h5
+9/9 [==============================] - 5s 545ms/step - loss: 0.0107 - mse: 0.0107 - val_loss: 0.0085 - val_mse: 0.0085
+Epoch 16/400
+9/9 [==============================] - ETA: 0s - loss: 0.0105 - mse: 0.0105
+Epoch 00016: val_mse improved from 0.00847 to 0.00845, saving model to model.h5
+9/9 [==============================] - 5s 552ms/step - loss: 0.0105 - mse: 0.0105 - val_loss: 0.0084 - val_mse: 0.0084
+Epoch 17/400
+9/9 [==============================] - ETA: 0s - loss: 0.0103 - mse: 0.0103
+Epoch 00017: val_mse improved from 0.00845 to 0.00826, saving model to model.h5
+9/9 [==============================] - 5s 535ms/step - loss: 0.0103 - mse: 0.0103 - val_loss: 0.0083 - val_mse: 0.0083
+Epoch 18/400
+9/9 [==============================] - ETA: 0s - loss: 0.0102 - mse: 0.0102
+Epoch 00018: val_mse did not improve from 0.00826
+9/9 [==============================] - 5s 536ms/step - loss: 0.0102 - mse: 0.0102 - val_loss: 0.0083 - val_mse: 0.0083
+Epoch 19/400
+9/9 [==============================] - ETA: 0s - loss: 0.0102 - mse: 0.0102
+Epoch 00019: val_mse improved from 0.00826 to 0.00803, saving model to model.h5
+9/9 [==============================] - 5s 540ms/step - loss: 0.0102 - mse: 0.0102 - val_loss: 0.0080 - val_mse: 0.0080
+Epoch 20/400
+9/9 [==============================] - ETA: 0s - loss: 0.0101 - mse: 0.0101
+Epoch 00020: val_mse did not improve from 0.00803
+9/9 [==============================] - 5s 536ms/step - loss: 0.0101 - mse: 0.0101 - val_loss: 0.0080 - val_mse: 0.0080
+Epoch 21/400
+9/9 [==============================] - ETA: 0s - loss: 0.0099 - mse: 0.0099
+Epoch 00021: val_mse did not improve from 0.00803
+9/9 [==============================] - 5s 540ms/step - loss: 0.0099 - mse: 0.0099 - val_loss: 0.0083 - val_mse: 0.0083
+Epoch 22/400
+9/9 [==============================] - ETA: 0s - loss: 0.0096 - mse: 0.0096
+Epoch 00022: val_mse improved from 0.00803 to 0.00777, saving model to model.h5
+9/9 [==============================] - 5s 539ms/step - loss: 0.0096 - mse: 0.0096 - val_loss: 0.0078 - val_mse: 0.0078
+Epoch 23/400
+9/9 [==============================] - ETA: 0s - loss: 0.0092 - mse: 0.0092
+Epoch 00023: val_mse did not improve from 0.00777
+9/9 [==============================] - 5s 534ms/step - loss: 0.0092 - mse: 0.0092 - val_loss: 0.0079 - val_mse: 0.0079
+Epoch 24/400
+9/9 [==============================] - ETA: 0s - loss: 0.0091 - mse: 0.0091
+Epoch 00024: val_mse improved from 0.00777 to 0.00717, saving model to model.h5
+9/9 [==============================] - 5s 542ms/step - loss: 0.0091 - mse: 0.0091 - val_loss: 0.0072 - val_mse: 0.0072
+Epoch 25/400
+9/9 [==============================] - ETA: 0s - loss: 0.0088 - mse: 0.0088
+Epoch 00025: val_mse improved from 0.00717 to 0.00699, saving model to model.h5
+9/9 [==============================] - 5s 535ms/step - loss: 0.0088 - mse: 0.0088 - val_loss: 0.0070 - val_mse: 0.0070
+Epoch 26/400
+9/9 [==============================] - ETA: 0s - loss: 0.0087 - mse: 0.0087
+Epoch 00026: val_mse improved from 0.00699 to 0.00662, saving model to model.h5
+9/9 [==============================] - 5s 541ms/step - loss: 0.0087 - mse: 0.0087 - val_loss: 0.0066 - val_mse: 0.0066
+Epoch 27/400
+9/9 [==============================] - ETA: 0s - loss: 0.0084 - mse: 0.0084
+Epoch 00027: val_mse improved from 0.00662 to 0.00638, saving model to model.h5
+9/9 [==============================] - 5s 540ms/step - loss: 0.0084 - mse: 0.0084 - val_loss: 0.0064 - val_mse: 0.0064
+Epoch 28/400
+9/9 [==============================] - ETA: 0s - loss: 0.0081 - mse: 0.0081
+Epoch 00028: val_mse did not improve from 0.00638
+9/9 [==============================] - 5s 546ms/step - loss: 0.0081 - mse: 0.0081 - val_loss: 0.0067 - val_mse: 0.0067
+Epoch 29/400
+9/9 [==============================] - ETA: 0s - loss: 0.0078 - mse: 0.0078
+Epoch 00029: val_mse improved from 0.00638 to 0.00575, saving model to model.h5
+9/9 [==============================] - 5s 542ms/step - loss: 0.0078 - mse: 0.0078 - val_loss: 0.0057 - val_mse: 0.0057
+Epoch 30/400
+9/9 [==============================] - ETA: 0s - loss: 0.0075 - mse: 0.0075
+Epoch 00030: val_mse did not improve from 0.00575
+9/9 [==============================] - 5s 531ms/step - loss: 0.0075 - mse: 0.0075 - val_loss: 0.0061 - val_mse: 0.0061
+Epoch 31/400
+9/9 [==============================] - ETA: 0s - loss: 0.0077 - mse: 0.0077
+Epoch 00031: val_mse did not improve from 0.00575
+9/9 [==============================] - 5s 539ms/step - loss: 0.0077 - mse: 0.0077 - val_loss: 0.0060 - val_mse: 0.0060
+Epoch 32/400
+9/9 [==============================] - ETA: 0s - loss: 0.0072 - mse: 0.0072
+Epoch 00032: val_mse did not improve from 0.00575
+9/9 [==============================] - 5s 533ms/step - loss: 0.0072 - mse: 0.0072 - val_loss: 0.0060 - val_mse: 0.0060
+Epoch 33/400
+9/9 [==============================] - ETA: 0s - loss: 0.0081 - mse: 0.0081
+Epoch 00033: val_mse improved from 0.00575 to 0.00534, saving model to model.h5
+9/9 [==============================] - 5s 540ms/step - loss: 0.0081 - mse: 0.0081 - val_loss: 0.0053 - val_mse: 0.0053
+Epoch 34/400
+9/9 [==============================] - ETA: 0s - loss: 0.0072 - mse: 0.0072
+Epoch 00034: val_mse improved from 0.00534 to 0.00513, saving model to model.h5
+9/9 [==============================] - 5s 536ms/step - loss: 0.0072 - mse: 0.0072 - val_loss: 0.0051 - val_mse: 0.0051
+Epoch 35/400
+9/9 [==============================] - ETA: 0s - loss: 0.0068 - mse: 0.0068
+Epoch 00035: val_mse improved from 0.00513 to 0.00472, saving model to model.h5
+9/9 [==============================] - 5s 541ms/step - loss: 0.0068 - mse: 0.0068 - val_loss: 0.0047 - val_mse: 0.0047
+Epoch 36/400
+9/9 [==============================] - ETA: 0s - loss: 0.0074 - mse: 0.0074
+Epoch 00036: val_mse did not improve from 0.00472
+9/9 [==============================] - 5s 535ms/step - loss: 0.0074 - mse: 0.0074 - val_loss: 0.0048 - val_mse: 0.0048
+Epoch 37/400
+9/9 [==============================] - ETA: 0s - loss: 0.0064 - mse: 0.0064
+Epoch 00037: val_mse improved from 0.00472 to 0.00444, saving model to model.h5
+9/9 [==============================] - 5s 536ms/step - loss: 0.0064 - mse: 0.0064 - val_loss: 0.0044 - val_mse: 0.0044
+Epoch 38/400
+9/9 [==============================] - ETA: 0s - loss: 0.0063 - mse: 0.0063
+Epoch 00038: val_mse improved from 0.00444 to 0.00441, saving model to model.h5
+9/9 [==============================] - 5s 540ms/step - loss: 0.0063 - mse: 0.0063 - val_loss: 0.0044 - val_mse: 0.0044
+Epoch 39/400
+9/9 [==============================] - ETA: 0s - loss: 0.0058 - mse: 0.0058
+Epoch 00039: val_mse improved from 0.00441 to 0.00408, saving model to model.h5
+9/9 [==============================] - 5s 542ms/step - loss: 0.0058 - mse: 0.0058 - val_loss: 0.0041 - val_mse: 0.0041
+Epoch 40/400
+9/9 [==============================] - ETA: 0s - loss: 0.0057 - mse: 0.0057
+Epoch 00040: val_mse improved from 0.00408 to 0.00393, saving model to model.h5
+9/9 [==============================] - 5s 543ms/step - loss: 0.0057 - mse: 0.0057 - val_loss: 0.0039 - val_mse: 0.0039
+Epoch 41/400
+9/9 [==============================] - ETA: 0s - loss: 0.0055 - mse: 0.0055
+Epoch 00041: val_mse did not improve from 0.00393
+9/9 [==============================] - 5s 541ms/step - loss: 0.0055 - mse: 0.0055 - val_loss: 0.0040 - val_mse: 0.0040
+Epoch 42/400
+9/9 [==============================] - ETA: 0s - loss: 0.0055 - mse: 0.0055
+Epoch 00042: val_mse improved from 0.00393 to 0.00377, saving model to model.h5
+9/9 [==============================] - 5s 541ms/step - loss: 0.0055 - mse: 0.0055 - val_loss: 0.0038 - val_mse: 0.0038
+Epoch 43/400
+9/9 [==============================] - ETA: 0s - loss: 0.0054 - mse: 0.0054
+Epoch 00043: val_mse did not improve from 0.00377
+9/9 [==============================] - 5s 538ms/step - loss: 0.0054 - mse: 0.0054 - val_loss: 0.0041 - val_mse: 0.0041
+Epoch 44/400
+9/9 [==============================] - ETA: 0s - loss: 0.0056 - mse: 0.0056
+Epoch 00044: val_mse improved from 0.00377 to 0.00364, saving model to model.h5
+9/9 [==============================] - 5s 539ms/step - loss: 0.0056 - mse: 0.0056 - val_loss: 0.0036 - val_mse: 0.0036
+Epoch 45/400
+9/9 [==============================] - ETA: 0s - loss: 0.0051 - mse: 0.0051
+Epoch 00045: val_mse did not improve from 0.00364
+9/9 [==============================] - 5s 534ms/step - loss: 0.0051 - mse: 0.0051 - val_loss: 0.0041 - val_mse: 0.0041
+Epoch 46/400
+9/9 [==============================] - ETA: 0s - loss: 0.0053 - mse: 0.0053
+Epoch 00046: val_mse did not improve from 0.00364
+9/9 [==============================] - 5s 532ms/step - loss: 0.0053 - mse: 0.0053 - val_loss: 0.0038 - val_mse: 0.0038
+Epoch 47/400
+9/9 [==============================] - ETA: 0s - loss: 0.0053 - mse: 0.0053
+Epoch 00047: val_mse improved from 0.00364 to 0.00350, saving model to model.h5
+9/9 [==============================] - 5s 534ms/step - loss: 0.0053 - mse: 0.0053 - val_loss: 0.0035 - val_mse: 0.0035
+Epoch 48/400
+9/9 [==============================] - ETA: 0s - loss: 0.0054 - mse: 0.0054
+Epoch 00048: val_mse did not improve from 0.00350
+9/9 [==============================] - 5s 533ms/step - loss: 0.0054 - mse: 0.0054 - val_loss: 0.0037 - val_mse: 0.0037
+Epoch 49/400
+9/9 [==============================] - ETA: 0s - loss: 0.0053 - mse: 0.0053
+Epoch 00049: val_mse did not improve from 0.00350
+9/9 [==============================] - 5s 539ms/step - loss: 0.0053 - mse: 0.0053 - val_loss: 0.0038 - val_mse: 0.0038
+Epoch 50/400
+9/9 [==============================] - ETA: 0s - loss: 0.0051 - mse: 0.0051
+Epoch 00050: val_mse did not improve from 0.00350
+9/9 [==============================] - 5s 535ms/step - loss: 0.0051 - mse: 0.0051 - val_loss: 0.0037 - val_mse: 0.0037
+Epoch 51/400
+9/9 [==============================] - ETA: 0s - loss: 0.0050 - mse: 0.0050
+Epoch 00051: val_mse did not improve from 0.00350
+9/9 [==============================] - 5s 536ms/step - loss: 0.0050 - mse: 0.0050 - val_loss: 0.0038 - val_mse: 0.0038
+Epoch 52/400
+9/9 [==============================] - ETA: 0s - loss: 0.0058 - mse: 0.0058
+Epoch 00052: val_mse did not improve from 0.00350
+9/9 [==============================] - 5s 535ms/step - loss: 0.0058 - mse: 0.0058 - val_loss: 0.0051 - val_mse: 0.0051
+Epoch 53/400
+9/9 [==============================] - ETA: 0s - loss: 0.0060 - mse: 0.0060
+Epoch 00053: val_mse did not improve from 0.00350
+9/9 [==============================] - 5s 534ms/step - loss: 0.0060 - mse: 0.0060 - val_loss: 0.0035 - val_mse: 0.0035
+Epoch 54/400
+9/9 [==============================] - ETA: 0s - loss: 0.0052 - mse: 0.0052
+Epoch 00054: val_mse did not improve from 0.00350
+9/9 [==============================] - 5s 537ms/step - loss: 0.0052 - mse: 0.0052 - val_loss: 0.0035 - val_mse: 0.0035
+Epoch 55/400
+9/9 [==============================] - ETA: 0s - loss: 0.0055 - mse: 0.0055
+Epoch 00055: val_mse did not improve from 0.00350
+9/9 [==============================] - 5s 544ms/step - loss: 0.0055 - mse: 0.0055 - val_loss: 0.0040 - val_mse: 0.0040
+Epoch 56/400
+9/9 [==============================] - ETA: 0s - loss: 0.0051 - mse: 0.0051
+Epoch 00056: val_mse did not improve from 0.00350
+9/9 [==============================] - 5s 548ms/step - loss: 0.0051 - mse: 0.0051 - val_loss: 0.0040 - val_mse: 0.0040
+Epoch 57/400
+9/9 [==============================] - ETA: 0s - loss: 0.0049 - mse: 0.0049
+Epoch 00057: val_mse improved from 0.00350 to 0.00335, saving model to model.h5
+9/9 [==============================] - 5s 545ms/step - loss: 0.0049 - mse: 0.0049 - val_loss: 0.0033 - val_mse: 0.0033
+Epoch 58/400
+9/9 [==============================] - ETA: 0s - loss: 0.0047 - mse: 0.0047
+Epoch 00058: val_mse improved from 0.00335 to 0.00331, saving model to model.h5
+9/9 [==============================] - 5s 548ms/step - loss: 0.0047 - mse: 0.0047 - val_loss: 0.0033 - val_mse: 0.0033
+Epoch 59/400
+9/9 [==============================] - ETA: 0s - loss: 0.0046 - mse: 0.0046
+Epoch 00059: val_mse did not improve from 0.00331
+9/9 [==============================] - 5s 536ms/step - loss: 0.0046 - mse: 0.0046 - val_loss: 0.0055 - val_mse: 0.0055
+Epoch 60/400
+9/9 [==============================] - ETA: 0s - loss: 0.0060 - mse: 0.0060
+Epoch 00060: val_mse did not improve from 0.00331
+9/9 [==============================] - 5s 539ms/step - loss: 0.0060 - mse: 0.0060 - val_loss: 0.0039 - val_mse: 0.0039
+Epoch 61/400
+9/9 [==============================] - ETA: 0s - loss: 0.0050 - mse: 0.0050
+Epoch 00061: val_mse did not improve from 0.00331
+9/9 [==============================] - 5s 534ms/step - loss: 0.0050 - mse: 0.0050 - val_loss: 0.0033 - val_mse: 0.0033
+Epoch 62/400
+9/9 [==============================] - ETA: 0s - loss: 0.0045 - mse: 0.0045
+Epoch 00062: val_mse did not improve from 0.00331
+9/9 [==============================] - 5s 544ms/step - loss: 0.0045 - mse: 0.0045 - val_loss: 0.0036 - val_mse: 0.0036
+Epoch 63/400
+9/9 [==============================] - ETA: 0s - loss: 0.0048 - mse: 0.0048
+Epoch 00063: val_mse did not improve from 0.00331
+9/9 [==============================] - 5s 535ms/step - loss: 0.0048 - mse: 0.0048 - val_loss: 0.0039 - val_mse: 0.0039
+Epoch 64/400
+9/9 [==============================] - ETA: 0s - loss: 0.0055 - mse: 0.0055
+Epoch 00064: val_mse did not improve from 0.00331
+9/9 [==============================] - 5s 539ms/step - loss: 0.0055 - mse: 0.0055 - val_loss: 0.0040 - val_mse: 0.0040
+Epoch 65/400
+9/9 [==============================] - ETA: 0s - loss: 0.0048 - mse: 0.0048
+Epoch 00065: val_mse did not improve from 0.00331
+9/9 [==============================] - 5s 540ms/step - loss: 0.0048 - mse: 0.0048 - val_loss: 0.0033 - val_mse: 0.0033
+Epoch 66/400
+9/9 [==============================] - ETA: 0s - loss: 0.0046 - mse: 0.0046
+Epoch 00066: val_mse did not improve from 0.00331
+9/9 [==============================] - 5s 534ms/step - loss: 0.0046 - mse: 0.0046 - val_loss: 0.0033 - val_mse: 0.0033
+Epoch 67/400
+9/9 [==============================] - ETA: 0s - loss: 0.0047 - mse: 0.0047
+Epoch 00067: val_mse did not improve from 0.00331
+9/9 [==============================] - 5s 537ms/step - loss: 0.0047 - mse: 0.0047 - val_loss: 0.0034 - val_mse: 0.0034
+Epoch 68/400
+9/9 [==============================] - ETA: 0s - loss: 0.0044 - mse: 0.0044
+Epoch 00068: val_mse improved from 0.00331 to 0.00308, saving model to model.h5
+9/9 [==============================] - 5s 542ms/step - loss: 0.0044 - mse: 0.0044 - val_loss: 0.0031 - val_mse: 0.0031
+Epoch 69/400
+9/9 [==============================] - ETA: 0s - loss: 0.0044 - mse: 0.0044
+Epoch 00069: val_mse did not improve from 0.00308
+9/9 [==============================] - 5s 540ms/step - loss: 0.0044 - mse: 0.0044 - val_loss: 0.0031 - val_mse: 0.0031
+Epoch 70/400
+9/9 [==============================] - ETA: 0s - loss: 0.0043 - mse: 0.0043
+Epoch 00070: val_mse improved from 0.00308 to 0.00307, saving model to model.h5
+9/9 [==============================] - 5s 534ms/step - loss: 0.0043 - mse: 0.0043 - val_loss: 0.0031 - val_mse: 0.0031
+Epoch 71/400
+9/9 [==============================] - ETA: 0s - loss: 0.0043 - mse: 0.0043
+Epoch 00071: val_mse did not improve from 0.00307
+9/9 [==============================] - 5s 533ms/step - loss: 0.0043 - mse: 0.0043 - val_loss: 0.0034 - val_mse: 0.0034
+Epoch 72/400
+9/9 [==============================] - ETA: 0s - loss: 0.0043 - mse: 0.0043
+Epoch 00072: val_mse improved from 0.00307 to 0.00303, saving model to model.h5
+9/9 [==============================] - 5s 536ms/step - loss: 0.0043 - mse: 0.0043 - val_loss: 0.0030 - val_mse: 0.0030
+Epoch 73/400
+9/9 [==============================] - ETA: 0s - loss: 0.0043 - mse: 0.0043
+Epoch 00073: val_mse improved from 0.00303 to 0.00297, saving model to model.h5
+9/9 [==============================] - 5s 542ms/step - loss: 0.0043 - mse: 0.0043 - val_loss: 0.0030 - val_mse: 0.0030
+Epoch 74/400
+9/9 [==============================] - ETA: 0s - loss: 0.0044 - mse: 0.0044
+Epoch 00074: val_mse did not improve from 0.00297
+9/9 [==============================] - 5s 533ms/step - loss: 0.0044 - mse: 0.0044 - val_loss: 0.0030 - val_mse: 0.0030
+Epoch 75/400
+9/9 [==============================] - ETA: 0s - loss: 0.0048 - mse: 0.0048
+Epoch 00075: val_mse did not improve from 0.00297
+9/9 [==============================] - 5s 540ms/step - loss: 0.0048 - mse: 0.0048 - val_loss: 0.0032 - val_mse: 0.0032
+Epoch 76/400
+9/9 [==============================] - ETA: 0s - loss: 0.0047 - mse: 0.0047
+Epoch 00076: val_mse did not improve from 0.00297
+9/9 [==============================] - 5s 536ms/step - loss: 0.0047 - mse: 0.0047 - val_loss: 0.0032 - val_mse: 0.0032
+Epoch 77/400
+9/9 [==============================] - ETA: 0s - loss: 0.0042 - mse: 0.0042
+Epoch 00077: val_mse did not improve from 0.00297
+9/9 [==============================] - 5s 540ms/step - loss: 0.0042 - mse: 0.0042 - val_loss: 0.0034 - val_mse: 0.0034
+Epoch 78/400
+9/9 [==============================] - ETA: 0s - loss: 0.0043 - mse: 0.0043
+Epoch 00078: val_mse did not improve from 0.00297
+9/9 [==============================] - 5s 539ms/step - loss: 0.0043 - mse: 0.0043 - val_loss: 0.0031 - val_mse: 0.0031
+Epoch 79/400
+9/9 [==============================] - ETA: 0s - loss: 0.0041 - mse: 0.0041
+Epoch 00079: val_mse improved from 0.00297 to 0.00295, saving model to model.h5
+9/9 [==============================] - 5s 539ms/step - loss: 0.0041 - mse: 0.0041 - val_loss: 0.0029 - val_mse: 0.0029
+Epoch 80/400
+9/9 [==============================] - ETA: 0s - loss: 0.0041 - mse: 0.0041
+Epoch 00080: val_mse did not improve from 0.00295
+9/9 [==============================] - 5s 537ms/step - loss: 0.0041 - mse: 0.0041 - val_loss: 0.0030 - val_mse: 0.0030
+Epoch 81/400
+9/9 [==============================] - ETA: 0s - loss: 0.0041 - mse: 0.0041
+Epoch 00081: val_mse improved from 0.00295 to 0.00291, saving model to model.h5
+9/9 [==============================] - 5s 548ms/step - loss: 0.0041 - mse: 0.0041 - val_loss: 0.0029 - val_mse: 0.0029
+Epoch 82/400
+9/9 [==============================] - ETA: 0s - loss: 0.0040 - mse: 0.0040
+Epoch 00082: val_mse did not improve from 0.00291
+9/9 [==============================] - 5s 537ms/step - loss: 0.0040 - mse: 0.0040 - val_loss: 0.0029 - val_mse: 0.0029
+Epoch 83/400
+9/9 [==============================] - ETA: 0s - loss: 0.0041 - mse: 0.0041
+Epoch 00083: val_mse improved from 0.00291 to 0.00282, saving model to model.h5
+9/9 [==============================] - 5s 549ms/step - loss: 0.0041 - mse: 0.0041 - val_loss: 0.0028 - val_mse: 0.0028
+Epoch 84/400
+9/9 [==============================] - ETA: 0s - loss: 0.0039 - mse: 0.0039
+Epoch 00084: val_mse did not improve from 0.00282
+9/9 [==============================] - 5s 533ms/step - loss: 0.0039 - mse: 0.0039 - val_loss: 0.0028 - val_mse: 0.0028
+Epoch 85/400
+9/9 [==============================] - ETA: 0s - loss: 0.0041 - mse: 0.0041
+Epoch 00085: val_mse did not improve from 0.00282
+9/9 [==============================] - 5s 536ms/step - loss: 0.0041 - mse: 0.0041 - val_loss: 0.0032 - val_mse: 0.0032
+Epoch 86/400
+9/9 [==============================] - ETA: 0s - loss: 0.0042 - mse: 0.0042
+Epoch 00086: val_mse improved from 0.00282 to 0.00280, saving model to model.h5
+9/9 [==============================] - 5s 542ms/step - loss: 0.0042 - mse: 0.0042 - val_loss: 0.0028 - val_mse: 0.0028
+Epoch 87/400
+9/9 [==============================] - ETA: 0s - loss: 0.0039 - mse: 0.0039
+Epoch 00087: val_mse did not improve from 0.00280
+9/9 [==============================] - 5s 536ms/step - loss: 0.0039 - mse: 0.0039 - val_loss: 0.0030 - val_mse: 0.0030
+Epoch 88/400
+9/9 [==============================] - ETA: 0s - loss: 0.0040 - mse: 0.0040
+Epoch 00088: val_mse improved from 0.00280 to 0.00278, saving model to model.h5
+9/9 [==============================] - 5s 536ms/step - loss: 0.0040 - mse: 0.0040 - val_loss: 0.0028 - val_mse: 0.0028
+Epoch 89/400
+9/9 [==============================] - ETA: 0s - loss: 0.0039 - mse: 0.0039
+Epoch 00089: val_mse did not improve from 0.00278
+9/9 [==============================] - 5s 543ms/step - loss: 0.0039 - mse: 0.0039 - val_loss: 0.0031 - val_mse: 0.0031
+Epoch 90/400
+9/9 [==============================] - ETA: 0s - loss: 0.0039 - mse: 0.0039
+Epoch 00090: val_mse did not improve from 0.00278
+9/9 [==============================] - 5s 538ms/step - loss: 0.0039 - mse: 0.0039 - val_loss: 0.0028 - val_mse: 0.0028
+Epoch 91/400
+9/9 [==============================] - ETA: 0s - loss: 0.0039 - mse: 0.0039
+Epoch 00091: val_mse improved from 0.00278 to 0.00277, saving model to model.h5
+9/9 [==============================] - 5s 537ms/step - loss: 0.0039 - mse: 0.0039 - val_loss: 0.0028 - val_mse: 0.0028
+Epoch 92/400
+9/9 [==============================] - ETA: 0s - loss: 0.0039 - mse: 0.0039
+Epoch 00092: val_mse did not improve from 0.00277
+9/9 [==============================] - 5s 539ms/step - loss: 0.0039 - mse: 0.0039 - val_loss: 0.0029 - val_mse: 0.0029
+Epoch 93/400
+9/9 [==============================] - ETA: 0s - loss: 0.0038 - mse: 0.0038
+Epoch 00093: val_mse improved from 0.00277 to 0.00276, saving model to model.h5
+9/9 [==============================] - 5s 535ms/step - loss: 0.0038 - mse: 0.0038 - val_loss: 0.0028 - val_mse: 0.0028
+Epoch 94/400
+9/9 [==============================] - ETA: 0s - loss: 0.0038 - mse: 0.0038
+Epoch 00094: val_mse improved from 0.00276 to 0.00274, saving model to model.h5
+9/9 [==============================] - 5s 543ms/step - loss: 0.0038 - mse: 0.0038 - val_loss: 0.0027 - val_mse: 0.0027
+Epoch 95/400
+9/9 [==============================] - ETA: 0s - loss: 0.0038 - mse: 0.0038
+Epoch 00095: val_mse improved from 0.00274 to 0.00271, saving model to model.h5
+9/9 [==============================] - 5s 537ms/step - loss: 0.0038 - mse: 0.0038 - val_loss: 0.0027 - val_mse: 0.0027
+Epoch 96/400
+9/9 [==============================] - ETA: 0s - loss: 0.0038 - mse: 0.0038
+Epoch 00096: val_mse improved from 0.00271 to 0.00269, saving model to model.h5
+9/9 [==============================] - 5s 539ms/step - loss: 0.0038 - mse: 0.0038 - val_loss: 0.0027 - val_mse: 0.0027
+Epoch 97/400
+9/9 [==============================] - ETA: 0s - loss: 0.0038 - mse: 0.0038
+Epoch 00097: val_mse did not improve from 0.00269
+9/9 [==============================] - 5s 533ms/step - loss: 0.0038 - mse: 0.0038 - val_loss: 0.0031 - val_mse: 0.0031
+Epoch 98/400
+9/9 [==============================] - ETA: 0s - loss: 0.0041 - mse: 0.0041
+Epoch 00098: val_mse did not improve from 0.00269
+9/9 [==============================] - 5s 536ms/step - loss: 0.0041 - mse: 0.0041 - val_loss: 0.0028 - val_mse: 0.0028
+Epoch 99/400
+9/9 [==============================] - ETA: 0s - loss: 0.0038 - mse: 0.0038
+Epoch 00099: val_mse did not improve from 0.00269
+9/9 [==============================] - 5s 533ms/step - loss: 0.0038 - mse: 0.0038 - val_loss: 0.0027 - val_mse: 0.0027
+Epoch 100/400
+9/9 [==============================] - ETA: 0s - loss: 0.0037 - mse: 0.0037
+Epoch 00100: val_mse did not improve from 0.00269
+9/9 [==============================] - 5s 536ms/step - loss: 0.0037 - mse: 0.0037 - val_loss: 0.0028 - val_mse: 0.0028
+Epoch 101/400
+9/9 [==============================] - ETA: 0s - loss: 0.0038 - mse: 0.0038
+Epoch 00101: val_mse did not improve from 0.00269
+9/9 [==============================] - 5s 531ms/step - loss: 0.0038 - mse: 0.0038 - val_loss: 0.0030 - val_mse: 0.0030
+Epoch 102/400
+9/9 [==============================] - ETA: 0s - loss: 0.0038 - mse: 0.0038
+Epoch 00102: val_mse did not improve from 0.00269
+9/9 [==============================] - 5s 536ms/step - loss: 0.0038 - mse: 0.0038 - val_loss: 0.0033 - val_mse: 0.0033
+Epoch 103/400
+9/9 [==============================] - ETA: 0s - loss: 0.0039 - mse: 0.0039
+Epoch 00103: val_mse improved from 0.00269 to 0.00263, saving model to model.h5
+9/9 [==============================] - 5s 544ms/step - loss: 0.0039 - mse: 0.0039 - val_loss: 0.0026 - val_mse: 0.0026
+Epoch 104/400
+9/9 [==============================] - ETA: 0s - loss: 0.0037 - mse: 0.0037
+Epoch 00104: val_mse did not improve from 0.00263
+9/9 [==============================] - 5s 541ms/step - loss: 0.0037 - mse: 0.0037 - val_loss: 0.0027 - val_mse: 0.0027
+Epoch 105/400
+9/9 [==============================] - ETA: 0s - loss: 0.0042 - mse: 0.0042
+Epoch 00105: val_mse did not improve from 0.00263
+9/9 [==============================] - 5s 539ms/step - loss: 0.0042 - mse: 0.0042 - val_loss: 0.0033 - val_mse: 0.0033
+Epoch 106/400
+9/9 [==============================] - ETA: 0s - loss: 0.0042 - mse: 0.0042
+Epoch 00106: val_mse did not improve from 0.00263
+9/9 [==============================] - 5s 536ms/step - loss: 0.0042 - mse: 0.0042 - val_loss: 0.0040 - val_mse: 0.0040
+Epoch 107/400
+9/9 [==============================] - ETA: 0s - loss: 0.0043 - mse: 0.0043
+Epoch 00107: val_mse did not improve from 0.00263
+9/9 [==============================] - 5s 537ms/step - loss: 0.0043 - mse: 0.0043 - val_loss: 0.0034 - val_mse: 0.0034
+Epoch 108/400
+9/9 [==============================] - ETA: 0s - loss: 0.0041 - mse: 0.0041
+Epoch 00108: val_mse did not improve from 0.00263
+9/9 [==============================] - 5s 542ms/step - loss: 0.0041 - mse: 0.0041 - val_loss: 0.0042 - val_mse: 0.0042
+Epoch 109/400
+9/9 [==============================] - ETA: 0s - loss: 0.0046 - mse: 0.0046
+Epoch 00109: val_mse did not improve from 0.00263
+9/9 [==============================] - 5s 535ms/step - loss: 0.0046 - mse: 0.0046 - val_loss: 0.0034 - val_mse: 0.0034
+Epoch 110/400
+9/9 [==============================] - ETA: 0s - loss: 0.0042 - mse: 0.0042
+Epoch 00110: val_mse did not improve from 0.00263
+9/9 [==============================] - 5s 536ms/step - loss: 0.0042 - mse: 0.0042 - val_loss: 0.0032 - val_mse: 0.0032
+Epoch 111/400
+9/9 [==============================] - ETA: 0s - loss: 0.0040 - mse: 0.0040
+Epoch 00111: val_mse did not improve from 0.00263
+9/9 [==============================] - 5s 537ms/step - loss: 0.0040 - mse: 0.0040 - val_loss: 0.0028 - val_mse: 0.0028
+Epoch 112/400
+9/9 [==============================] - ETA: 0s - loss: 0.0036 - mse: 0.0036
+Epoch 00112: val_mse did not improve from 0.00263
+9/9 [==============================] - 5s 534ms/step - loss: 0.0036 - mse: 0.0036 - val_loss: 0.0027 - val_mse: 0.0027
+Epoch 113/400
+9/9 [==============================] - ETA: 0s - loss: 0.0041 - mse: 0.0041
+Epoch 00113: val_mse did not improve from 0.00263
+9/9 [==============================] - 5s 537ms/step - loss: 0.0041 - mse: 0.0041 - val_loss: 0.0028 - val_mse: 0.0028
+Epoch 114/400
+9/9 [==============================] - ETA: 0s - loss: 0.0038 - mse: 0.0038
+Epoch 00114: val_mse did not improve from 0.00263
+9/9 [==============================] - 5s 538ms/step - loss: 0.0038 - mse: 0.0038 - val_loss: 0.0032 - val_mse: 0.0032
+Epoch 115/400
+9/9 [==============================] - ETA: 0s - loss: 0.0042 - mse: 0.0042
+Epoch 00115: val_mse did not improve from 0.00263
+9/9 [==============================] - 5s 543ms/step - loss: 0.0042 - mse: 0.0042 - val_loss: 0.0030 - val_mse: 0.0030
+Epoch 116/400
+9/9 [==============================] - ETA: 0s - loss: 0.0038 - mse: 0.0038
+Epoch 00116: val_mse improved from 0.00263 to 0.00262, saving model to model.h5
+9/9 [==============================] - 5s 538ms/step - loss: 0.0038 - mse: 0.0038 - val_loss: 0.0026 - val_mse: 0.0026
+Epoch 117/400
+9/9 [==============================] - ETA: 0s - loss: 0.0036 - mse: 0.0036
+Epoch 00117: val_mse did not improve from 0.00262
+9/9 [==============================] - 5s 545ms/step - loss: 0.0036 - mse: 0.0036 - val_loss: 0.0026 - val_mse: 0.0026
+Epoch 118/400
+9/9 [==============================] - ETA: 0s - loss: 0.0037 - mse: 0.0037
+Epoch 00118: val_mse improved from 0.00262 to 0.00252, saving model to model.h5
+9/9 [==============================] - 5s 545ms/step - loss: 0.0037 - mse: 0.0037 - val_loss: 0.0025 - val_mse: 0.0025
+Epoch 119/400
+9/9 [==============================] - ETA: 0s - loss: 0.0040 - mse: 0.0040
+Epoch 00119: val_mse did not improve from 0.00252
+9/9 [==============================] - 5s 546ms/step - loss: 0.0040 - mse: 0.0040 - val_loss: 0.0029 - val_mse: 0.0029
+Epoch 120/400
+9/9 [==============================] - ETA: 0s - loss: 0.0038 - mse: 0.0038
+Epoch 00120: val_mse did not improve from 0.00252
+9/9 [==============================] - 5s 539ms/step - loss: 0.0038 - mse: 0.0038 - val_loss: 0.0037 - val_mse: 0.0037
+Epoch 121/400
+9/9 [==============================] - ETA: 0s - loss: 0.0040 - mse: 0.0040
+Epoch 00121: val_mse did not improve from 0.00252
+9/9 [==============================] - 5s 539ms/step - loss: 0.0040 - mse: 0.0040 - val_loss: 0.0025 - val_mse: 0.0025
+Epoch 122/400
+9/9 [==============================] - ETA: 0s - loss: 0.0035 - mse: 0.0035
+Epoch 00122: val_mse did not improve from 0.00252
+9/9 [==============================] - 5s 536ms/step - loss: 0.0035 - mse: 0.0035 - val_loss: 0.0027 - val_mse: 0.0027
+Epoch 123/400
+9/9 [==============================] - ETA: 0s - loss: 0.0036 - mse: 0.0036
+Epoch 00123: val_mse improved from 0.00252 to 0.00251, saving model to model.h5
+9/9 [==============================] - 5s 545ms/step - loss: 0.0036 - mse: 0.0036 - val_loss: 0.0025 - val_mse: 0.0025
+Epoch 124/400
+9/9 [==============================] - ETA: 0s - loss: 0.0037 - mse: 0.0037
+Epoch 00124: val_mse improved from 0.00251 to 0.00247, saving model to model.h5
+9/9 [==============================] - 5s 541ms/step - loss: 0.0037 - mse: 0.0037 - val_loss: 0.0025 - val_mse: 0.0025
+Epoch 125/400
+9/9 [==============================] - ETA: 0s - loss: 0.0043 - mse: 0.0043
+Epoch 00125: val_mse did not improve from 0.00247
+9/9 [==============================] - 5s 539ms/step - loss: 0.0043 - mse: 0.0043 - val_loss: 0.0036 - val_mse: 0.0036
+Epoch 126/400
+9/9 [==============================] - ETA: 0s - loss: 0.0041 - mse: 0.0041
+Epoch 00126: val_mse did not improve from 0.00247
+9/9 [==============================] - 5s 536ms/step - loss: 0.0041 - mse: 0.0041 - val_loss: 0.0031 - val_mse: 0.0031
+Epoch 127/400
+9/9 [==============================] - ETA: 0s - loss: 0.0038 - mse: 0.0038
+Epoch 00127: val_mse did not improve from 0.00247
+9/9 [==============================] - 5s 544ms/step - loss: 0.0038 - mse: 0.0038 - val_loss: 0.0026 - val_mse: 0.0026
+Epoch 128/400
+9/9 [==============================] - ETA: 0s - loss: 0.0035 - mse: 0.0035
+Epoch 00128: val_mse improved from 0.00247 to 0.00246, saving model to model.h5
+9/9 [==============================] - 5s 539ms/step - loss: 0.0035 - mse: 0.0035 - val_loss: 0.0025 - val_mse: 0.0025
+Epoch 129/400
+9/9 [==============================] - ETA: 0s - loss: 0.0035 - mse: 0.0035
+Epoch 00129: val_mse did not improve from 0.00246
+9/9 [==============================] - 5s 541ms/step - loss: 0.0035 - mse: 0.0035 - val_loss: 0.0026 - val_mse: 0.0026
+Epoch 130/400
+9/9 [==============================] - ETA: 0s - loss: 0.0035 - mse: 0.0035
+Epoch 00130: val_mse did not improve from 0.00246
+9/9 [==============================] - 5s 545ms/step - loss: 0.0035 - mse: 0.0035 - val_loss: 0.0027 - val_mse: 0.0027
+Epoch 131/400
+9/9 [==============================] - ETA: 0s - loss: 0.0035 - mse: 0.0035
+Epoch 00131: val_mse improved from 0.00246 to 0.00242, saving model to model.h5
+9/9 [==============================] - 5s 549ms/step - loss: 0.0035 - mse: 0.0035 - val_loss: 0.0024 - val_mse: 0.0024
+Epoch 132/400
+9/9 [==============================] - ETA: 0s - loss: 0.0033 - mse: 0.0033
+Epoch 00132: val_mse did not improve from 0.00242
+9/9 [==============================] - 5s 539ms/step - loss: 0.0033 - mse: 0.0033 - val_loss: 0.0025 - val_mse: 0.0025
+Epoch 133/400
+9/9 [==============================] - ETA: 0s - loss: 0.0033 - mse: 0.0033
+Epoch 00133: val_mse improved from 0.00242 to 0.00240, saving model to model.h5
+9/9 [==============================] - 5s 539ms/step - loss: 0.0033 - mse: 0.0033 - val_loss: 0.0024 - val_mse: 0.0024
+Epoch 134/400
+9/9 [==============================] - ETA: 0s - loss: 0.0033 - mse: 0.0033
+Epoch 00134: val_mse did not improve from 0.00240
+9/9 [==============================] - 5s 538ms/step - loss: 0.0033 - mse: 0.0033 - val_loss: 0.0025 - val_mse: 0.0025
+Epoch 135/400
+9/9 [==============================] - ETA: 0s - loss: 0.0034 - mse: 0.0034
+Epoch 00135: val_mse improved from 0.00240 to 0.00236, saving model to model.h5
+9/9 [==============================] - 5s 539ms/step - loss: 0.0034 - mse: 0.0034 - val_loss: 0.0024 - val_mse: 0.0024
+Epoch 136/400
+9/9 [==============================] - ETA: 0s - loss: 0.0033 - mse: 0.0033
+Epoch 00136: val_mse did not improve from 0.00236
+9/9 [==============================] - 5s 534ms/step - loss: 0.0033 - mse: 0.0033 - val_loss: 0.0025 - val_mse: 0.0025
+Epoch 137/400
+9/9 [==============================] - ETA: 0s - loss: 0.0037 - mse: 0.0037
+Epoch 00137: val_mse did not improve from 0.00236
+9/9 [==============================] - 5s 542ms/step - loss: 0.0037 - mse: 0.0037 - val_loss: 0.0025 - val_mse: 0.0025
+Epoch 138/400
+9/9 [==============================] - ETA: 0s - loss: 0.0033 - mse: 0.0033
+Epoch 00138: val_mse did not improve from 0.00236
+9/9 [==============================] - 5s 543ms/step - loss: 0.0033 - mse: 0.0033 - val_loss: 0.0029 - val_mse: 0.0029
+Epoch 139/400
+9/9 [==============================] - ETA: 0s - loss: 0.0037 - mse: 0.0037
+Epoch 00139: val_mse did not improve from 0.00236
+9/9 [==============================] - 5s 539ms/step - loss: 0.0037 - mse: 0.0037 - val_loss: 0.0033 - val_mse: 0.0033
+Epoch 140/400
+9/9 [==============================] - ETA: 0s - loss: 0.0037 - mse: 0.0037
+Epoch 00140: val_mse did not improve from 0.00236
+9/9 [==============================] - 5s 540ms/step - loss: 0.0037 - mse: 0.0037 - val_loss: 0.0029 - val_mse: 0.0029
+Epoch 141/400
+9/9 [==============================] - ETA: 0s - loss: 0.0037 - mse: 0.0037
+Epoch 00141: val_mse did not improve from 0.00236
+9/9 [==============================] - 5s 544ms/step - loss: 0.0037 - mse: 0.0037 - val_loss: 0.0028 - val_mse: 0.0028
+Epoch 142/400
+9/9 [==============================] - ETA: 0s - loss: 0.0033 - mse: 0.0033
+Epoch 00142: val_mse did not improve from 0.00236
+9/9 [==============================] - 5s 542ms/step - loss: 0.0033 - mse: 0.0033 - val_loss: 0.0030 - val_mse: 0.0030
+Epoch 143/400
+9/9 [==============================] - ETA: 0s - loss: 0.0045 - mse: 0.0045
+Epoch 00143: val_mse did not improve from 0.00236
+9/9 [==============================] - 5s 536ms/step - loss: 0.0045 - mse: 0.0045 - val_loss: 0.0025 - val_mse: 0.0025
+Epoch 144/400
+9/9 [==============================] - ETA: 0s - loss: 0.0042 - mse: 0.0042
+Epoch 00144: val_mse did not improve from 0.00236
+9/9 [==============================] - 5s 546ms/step - loss: 0.0042 - mse: 0.0042 - val_loss: 0.0026 - val_mse: 0.0026
+Epoch 145/400
+9/9 [==============================] - ETA: 0s - loss: 0.0033 - mse: 0.0033
+Epoch 00145: val_mse did not improve from 0.00236
+9/9 [==============================] - 5s 544ms/step - loss: 0.0033 - mse: 0.0033 - val_loss: 0.0024 - val_mse: 0.0024
+Epoch 146/400
+9/9 [==============================] - ETA: 0s - loss: 0.0033 - mse: 0.0033
+Epoch 00146: val_mse improved from 0.00236 to 0.00231, saving model to model.h5
+9/9 [==============================] - 5s 550ms/step - loss: 0.0033 - mse: 0.0033 - val_loss: 0.0023 - val_mse: 0.0023
+Epoch 147/400
+9/9 [==============================] - ETA: 0s - loss: 0.0032 - mse: 0.0032
+Epoch 00147: val_mse did not improve from 0.00231
+9/9 [==============================] - 5s 539ms/step - loss: 0.0032 - mse: 0.0032 - val_loss: 0.0025 - val_mse: 0.0025
+Epoch 148/400
+9/9 [==============================] - ETA: 0s - loss: 0.0032 - mse: 0.0032
+Epoch 00148: val_mse did not improve from 0.00231
+9/9 [==============================] - 5s 544ms/step - loss: 0.0032 - mse: 0.0032 - val_loss: 0.0025 - val_mse: 0.0025
+Epoch 149/400
+9/9 [==============================] - ETA: 0s - loss: 0.0035 - mse: 0.0035
+Epoch 00149: val_mse did not improve from 0.00231
+9/9 [==============================] - 5s 536ms/step - loss: 0.0035 - mse: 0.0035 - val_loss: 0.0024 - val_mse: 0.0024
+Epoch 150/400
+9/9 [==============================] - ETA: 0s - loss: 0.0034 - mse: 0.0034
+Epoch 00150: val_mse did not improve from 0.00231
+9/9 [==============================] - 5s 545ms/step - loss: 0.0034 - mse: 0.0034 - val_loss: 0.0026 - val_mse: 0.0026
+Epoch 151/400
+9/9 [==============================] - ETA: 0s - loss: 0.0033 - mse: 0.0033
+Epoch 00151: val_mse did not improve from 0.00231
+9/9 [==============================] - 5s 547ms/step - loss: 0.0033 - mse: 0.0033 - val_loss: 0.0023 - val_mse: 0.0023
+Epoch 152/400
+9/9 [==============================] - ETA: 0s - loss: 0.0032 - mse: 0.0032
+Epoch 00152: val_mse improved from 0.00231 to 0.00218, saving model to model.h5
+9/9 [==============================] - 5s 549ms/step - loss: 0.0032 - mse: 0.0032 - val_loss: 0.0022 - val_mse: 0.0022
+Epoch 153/400
+9/9 [==============================] - ETA: 0s - loss: 0.0035 - mse: 0.0035
+Epoch 00153: val_mse did not improve from 0.00218
+9/9 [==============================] - 5s 541ms/step - loss: 0.0035 - mse: 0.0035 - val_loss: 0.0023 - val_mse: 0.0023
+Epoch 154/400
+9/9 [==============================] - ETA: 0s - loss: 0.0033 - mse: 0.0033
+Epoch 00154: val_mse did not improve from 0.00218
+9/9 [==============================] - 5s 539ms/step - loss: 0.0033 - mse: 0.0033 - val_loss: 0.0023 - val_mse: 0.0023
+Epoch 155/400
+9/9 [==============================] - ETA: 0s - loss: 0.0032 - mse: 0.0032
+Epoch 00155: val_mse did not improve from 0.00218
+9/9 [==============================] - 5s 537ms/step - loss: 0.0032 - mse: 0.0032 - val_loss: 0.0022 - val_mse: 0.0022
+Epoch 156/400
+9/9 [==============================] - ETA: 0s - loss: 0.0030 - mse: 0.0030
+Epoch 00156: val_mse did not improve from 0.00218
+9/9 [==============================] - 5s 544ms/step - loss: 0.0030 - mse: 0.0030 - val_loss: 0.0022 - val_mse: 0.0022
+Epoch 157/400
+9/9 [==============================] - ETA: 0s - loss: 0.0031 - mse: 0.0031
+Epoch 00157: val_mse did not improve from 0.00218
+9/9 [==============================] - 5s 547ms/step - loss: 0.0031 - mse: 0.0031 - val_loss: 0.0022 - val_mse: 0.0022
+Epoch 158/400
+9/9 [==============================] - ETA: 0s - loss: 0.0030 - mse: 0.0030
+Epoch 00158: val_mse did not improve from 0.00218
+9/9 [==============================] - 5s 545ms/step - loss: 0.0030 - mse: 0.0030 - val_loss: 0.0024 - val_mse: 0.0024
+Epoch 159/400
+9/9 [==============================] - ETA: 0s - loss: 0.0031 - mse: 0.0031
+Epoch 00159: val_mse did not improve from 0.00218
+9/9 [==============================] - 5s 541ms/step - loss: 0.0031 - mse: 0.0031 - val_loss: 0.0027 - val_mse: 0.0027
+Epoch 160/400
+9/9 [==============================] - ETA: 0s - loss: 0.0032 - mse: 0.0032
+Epoch 00160: val_mse did not improve from 0.00218
+9/9 [==============================] - 5s 540ms/step - loss: 0.0032 - mse: 0.0032 - val_loss: 0.0023 - val_mse: 0.0023
+Epoch 161/400
+9/9 [==============================] - ETA: 0s - loss: 0.0031 - mse: 0.0031
+Epoch 00161: val_mse did not improve from 0.00218
+9/9 [==============================] - 5s 542ms/step - loss: 0.0031 - mse: 0.0031 - val_loss: 0.0024 - val_mse: 0.0024
+Epoch 162/400
+9/9 [==============================] - ETA: 0s - loss: 0.0032 - mse: 0.0032
+Epoch 00162: val_mse did not improve from 0.00218
+9/9 [==============================] - 5s 534ms/step - loss: 0.0032 - mse: 0.0032 - val_loss: 0.0026 - val_mse: 0.0026
+Epoch 163/400
+9/9 [==============================] - ETA: 0s - loss: 0.0032 - mse: 0.0032
+Epoch 00163: val_mse improved from 0.00218 to 0.00217, saving model to model.h5
+9/9 [==============================] - 5s 540ms/step - loss: 0.0032 - mse: 0.0032 - val_loss: 0.0022 - val_mse: 0.0022
+Epoch 164/400
+9/9 [==============================] - ETA: 0s - loss: 0.0030 - mse: 0.0030
+Epoch 00164: val_mse did not improve from 0.00217
+9/9 [==============================] - 5s 538ms/step - loss: 0.0030 - mse: 0.0030 - val_loss: 0.0022 - val_mse: 0.0022
+Epoch 165/400
+9/9 [==============================] - ETA: 0s - loss: 0.0032 - mse: 0.0032
+Epoch 00165: val_mse did not improve from 0.00217
+9/9 [==============================] - 5s 546ms/step - loss: 0.0032 - mse: 0.0032 - val_loss: 0.0026 - val_mse: 0.0026
+Epoch 166/400
+9/9 [==============================] - ETA: 0s - loss: 0.0031 - mse: 0.0031
+Epoch 00166: val_mse did not improve from 0.00217
+9/9 [==============================] - 5s 542ms/step - loss: 0.0031 - mse: 0.0031 - val_loss: 0.0026 - val_mse: 0.0026
+Epoch 167/400
+9/9 [==============================] - ETA: 0s - loss: 0.0033 - mse: 0.0033
+Epoch 00167: val_mse did not improve from 0.00217
+9/9 [==============================] - 5s 539ms/step - loss: 0.0033 - mse: 0.0033 - val_loss: 0.0023 - val_mse: 0.0023
+Epoch 168/400
+9/9 [==============================] - ETA: 0s - loss: 0.0032 - mse: 0.0032
+Epoch 00168: val_mse did not improve from 0.00217
+9/9 [==============================] - 5s 540ms/step - loss: 0.0032 - mse: 0.0032 - val_loss: 0.0023 - val_mse: 0.0023
+Epoch 169/400
+9/9 [==============================] - ETA: 0s - loss: 0.0032 - mse: 0.0032
+Epoch 00169: val_mse did not improve from 0.00217
+9/9 [==============================] - 5s 542ms/step - loss: 0.0032 - mse: 0.0032 - val_loss: 0.0023 - val_mse: 0.0023
+Epoch 170/400
+9/9 [==============================] - ETA: 0s - loss: 0.0032 - mse: 0.0032
+Epoch 00170: val_mse improved from 0.00217 to 0.00204, saving model to model.h5
+9/9 [==============================] - 5s 540ms/step - loss: 0.0032 - mse: 0.0032 - val_loss: 0.0020 - val_mse: 0.0020
+Epoch 171/400
+9/9 [==============================] - ETA: 0s - loss: 0.0029 - mse: 0.0029
+Epoch 00171: val_mse did not improve from 0.00204
+9/9 [==============================] - 5s 543ms/step - loss: 0.0029 - mse: 0.0029 - val_loss: 0.0028 - val_mse: 0.0028
+Epoch 172/400
+9/9 [==============================] - ETA: 0s - loss: 0.0035 - mse: 0.0035
+Epoch 00172: val_mse did not improve from 0.00204
+9/9 [==============================] - 5s 539ms/step - loss: 0.0035 - mse: 0.0035 - val_loss: 0.0024 - val_mse: 0.0024
+Epoch 173/400
+9/9 [==============================] - ETA: 0s - loss: 0.0029 - mse: 0.0029
+Epoch 00173: val_mse improved from 0.00204 to 0.00201, saving model to model.h5
+9/9 [==============================] - 5s 543ms/step - loss: 0.0029 - mse: 0.0029 - val_loss: 0.0020 - val_mse: 0.0020
+Epoch 174/400
+9/9 [==============================] - ETA: 0s - loss: 0.0028 - mse: 0.0028
+Epoch 00174: val_mse improved from 0.00201 to 0.00191, saving model to model.h5
+9/9 [==============================] - 5s 540ms/step - loss: 0.0028 - mse: 0.0028 - val_loss: 0.0019 - val_mse: 0.0019
+Epoch 175/400
+9/9 [==============================] - ETA: 0s - loss: 0.0027 - mse: 0.0027
+Epoch 00175: val_mse improved from 0.00191 to 0.00190, saving model to model.h5
+9/9 [==============================] - 5s 536ms/step - loss: 0.0027 - mse: 0.0027 - val_loss: 0.0019 - val_mse: 0.0019
+Epoch 176/400
+9/9 [==============================] - ETA: 0s - loss: 0.0027 - mse: 0.0027
+Epoch 00176: val_mse did not improve from 0.00190
+9/9 [==============================] - 5s 539ms/step - loss: 0.0027 - mse: 0.0027 - val_loss: 0.0023 - val_mse: 0.0023
+Epoch 177/400
+9/9 [==============================] - ETA: 0s - loss: 0.0028 - mse: 0.0028
+Epoch 00177: val_mse did not improve from 0.00190
+9/9 [==============================] - 5s 550ms/step - loss: 0.0028 - mse: 0.0028 - val_loss: 0.0019 - val_mse: 0.0019
+Epoch 178/400
+9/9 [==============================] - ETA: 0s - loss: 0.0027 - mse: 0.0027
+Epoch 00178: val_mse did not improve from 0.00190
+9/9 [==============================] - 5s 548ms/step - loss: 0.0027 - mse: 0.0027 - val_loss: 0.0021 - val_mse: 0.0021
+Epoch 179/400
+9/9 [==============================] - ETA: 0s - loss: 0.0026 - mse: 0.0026
+Epoch 00179: val_mse did not improve from 0.00190
+9/9 [==============================] - 5s 537ms/step - loss: 0.0026 - mse: 0.0026 - val_loss: 0.0019 - val_mse: 0.0019
+Epoch 180/400
+9/9 [==============================] - ETA: 0s - loss: 0.0027 - mse: 0.0027
+Epoch 00180: val_mse improved from 0.00190 to 0.00186, saving model to model.h5
+9/9 [==============================] - 5s 551ms/step - loss: 0.0027 - mse: 0.0027 - val_loss: 0.0019 - val_mse: 0.0019
+Epoch 181/400
+9/9 [==============================] - ETA: 0s - loss: 0.0026 - mse: 0.0026
+Epoch 00181: val_mse did not improve from 0.00186
+9/9 [==============================] - 5s 548ms/step - loss: 0.0026 - mse: 0.0026 - val_loss: 0.0024 - val_mse: 0.0024
+Epoch 182/400
+9/9 [==============================] - ETA: 0s - loss: 0.0027 - mse: 0.0027
+Epoch 00182: val_mse improved from 0.00186 to 0.00178, saving model to model.h5
+9/9 [==============================] - 5s 552ms/step - loss: 0.0027 - mse: 0.0027 - val_loss: 0.0018 - val_mse: 0.0018
+Epoch 183/400
+9/9 [==============================] - ETA: 0s - loss: 0.0025 - mse: 0.0025
+Epoch 00183: val_mse improved from 0.00178 to 0.00170, saving model to model.h5
+9/9 [==============================] - 5s 540ms/step - loss: 0.0025 - mse: 0.0025 - val_loss: 0.0017 - val_mse: 0.0017
+Epoch 184/400
+9/9 [==============================] - ETA: 0s - loss: 0.0024 - mse: 0.0024
+Epoch 00184: val_mse did not improve from 0.00170
+9/9 [==============================] - 5s 546ms/step - loss: 0.0024 - mse: 0.0024 - val_loss: 0.0017 - val_mse: 0.0017
+Epoch 185/400
+9/9 [==============================] - ETA: 0s - loss: 0.0024 - mse: 0.0024
+Epoch 00185: val_mse improved from 0.00170 to 0.00169, saving model to model.h5
+9/9 [==============================] - 5s 542ms/step - loss: 0.0024 - mse: 0.0024 - val_loss: 0.0017 - val_mse: 0.0017
+Epoch 186/400
+9/9 [==============================] - ETA: 0s - loss: 0.0024 - mse: 0.0024
+Epoch 00186: val_mse did not improve from 0.00169
+9/9 [==============================] - 5s 542ms/step - loss: 0.0024 - mse: 0.0024 - val_loss: 0.0017 - val_mse: 0.0017
+Epoch 187/400
+9/9 [==============================] - ETA: 0s - loss: 0.0024 - mse: 0.0024
+Epoch 00187: val_mse did not improve from 0.00169
+9/9 [==============================] - 5s 539ms/step - loss: 0.0024 - mse: 0.0024 - val_loss: 0.0019 - val_mse: 0.0019
+Epoch 188/400
+9/9 [==============================] - ETA: 0s - loss: 0.0023 - mse: 0.0023
+Epoch 00188: val_mse improved from 0.00169 to 0.00168, saving model to model.h5
+9/9 [==============================] - 5s 545ms/step - loss: 0.0023 - mse: 0.0023 - val_loss: 0.0017 - val_mse: 0.0017
+Epoch 189/400
+9/9 [==============================] - ETA: 0s - loss: 0.0024 - mse: 0.0024
+Epoch 00189: val_mse improved from 0.00168 to 0.00167, saving model to model.h5
+9/9 [==============================] - 5s 546ms/step - loss: 0.0024 - mse: 0.0024 - val_loss: 0.0017 - val_mse: 0.0017
+Epoch 190/400
+9/9 [==============================] - ETA: 0s - loss: 0.0023 - mse: 0.0023
+Epoch 00190: val_mse improved from 0.00167 to 0.00157, saving model to model.h5
+9/9 [==============================] - 5s 542ms/step - loss: 0.0023 - mse: 0.0023 - val_loss: 0.0016 - val_mse: 0.0016
+Epoch 191/400
+9/9 [==============================] - ETA: 0s - loss: 0.0022 - mse: 0.0022
+Epoch 00191: val_mse did not improve from 0.00157
+9/9 [==============================] - 5s 536ms/step - loss: 0.0022 - mse: 0.0022 - val_loss: 0.0016 - val_mse: 0.0016
+Epoch 192/400
+9/9 [==============================] - ETA: 0s - loss: 0.0022 - mse: 0.0022
+Epoch 00192: val_mse did not improve from 0.00157
+9/9 [==============================] - 5s 546ms/step - loss: 0.0022 - mse: 0.0022 - val_loss: 0.0017 - val_mse: 0.0017
+Epoch 193/400
+9/9 [==============================] - ETA: 0s - loss: 0.0022 - mse: 0.0022
+Epoch 00193: val_mse did not improve from 0.00157
+9/9 [==============================] - 5s 539ms/step - loss: 0.0022 - mse: 0.0022 - val_loss: 0.0016 - val_mse: 0.0016
+Epoch 194/400
+9/9 [==============================] - ETA: 0s - loss: 0.0023 - mse: 0.0023
+Epoch 00194: val_mse did not improve from 0.00157
+9/9 [==============================] - 5s 540ms/step - loss: 0.0023 - mse: 0.0023 - val_loss: 0.0020 - val_mse: 0.0020
+Epoch 195/400
+9/9 [==============================] - ETA: 0s - loss: 0.0022 - mse: 0.0022
+Epoch 00195: val_mse improved from 0.00157 to 0.00146, saving model to model.h5
+9/9 [==============================] - 5s 540ms/step - loss: 0.0022 - mse: 0.0022 - val_loss: 0.0015 - val_mse: 0.0015
+Epoch 196/400
+9/9 [==============================] - ETA: 0s - loss: 0.0020 - mse: 0.0020
+Epoch 00196: val_mse did not improve from 0.00146
+9/9 [==============================] - 5s 539ms/step - loss: 0.0020 - mse: 0.0020 - val_loss: 0.0015 - val_mse: 0.0015
+Epoch 197/400
+9/9 [==============================] - ETA: 0s - loss: 0.0020 - mse: 0.0020
+Epoch 00197: val_mse did not improve from 0.00146
+9/9 [==============================] - 5s 541ms/step - loss: 0.0020 - mse: 0.0020 - val_loss: 0.0018 - val_mse: 0.0018
+Epoch 198/400
+9/9 [==============================] - ETA: 0s - loss: 0.0021 - mse: 0.0021
+Epoch 00198: val_mse improved from 0.00146 to 0.00144, saving model to model.h5
+9/9 [==============================] - 5s 538ms/step - loss: 0.0021 - mse: 0.0021 - val_loss: 0.0014 - val_mse: 0.0014
+Epoch 199/400
+9/9 [==============================] - ETA: 0s - loss: 0.0021 - mse: 0.0021
+Epoch 00199: val_mse did not improve from 0.00144
+9/9 [==============================] - 5s 537ms/step - loss: 0.0021 - mse: 0.0021 - val_loss: 0.0017 - val_mse: 0.0017
+Epoch 200/400
+9/9 [==============================] - ETA: 0s - loss: 0.0022 - mse: 0.0022
+Epoch 00200: val_mse did not improve from 0.00144
+9/9 [==============================] - 5s 537ms/step - loss: 0.0022 - mse: 0.0022 - val_loss: 0.0015 - val_mse: 0.0015
+Epoch 201/400
+9/9 [==============================] - ETA: 0s - loss: 0.0022 - mse: 0.0022
+Epoch 00201: val_mse did not improve from 0.00144
+9/9 [==============================] - 5s 542ms/step - loss: 0.0022 - mse: 0.0022 - val_loss: 0.0022 - val_mse: 0.0022
+Epoch 202/400
+9/9 [==============================] - ETA: 0s - loss: 0.0023 - mse: 0.0023
+Epoch 00202: val_mse improved from 0.00144 to 0.00141, saving model to model.h5
+9/9 [==============================] - 5s 542ms/step - loss: 0.0023 - mse: 0.0023 - val_loss: 0.0014 - val_mse: 0.0014
+Epoch 203/400
+9/9 [==============================] - ETA: 0s - loss: 0.0021 - mse: 0.0021
+Epoch 00203: val_mse did not improve from 0.00141
+9/9 [==============================] - 5s 545ms/step - loss: 0.0021 - mse: 0.0021 - val_loss: 0.0014 - val_mse: 0.0014
+Epoch 204/400
+9/9 [==============================] - ETA: 0s - loss: 0.0021 - mse: 0.0021
+Epoch 00204: val_mse did not improve from 0.00141
+9/9 [==============================] - 5s 542ms/step - loss: 0.0021 - mse: 0.0021 - val_loss: 0.0016 - val_mse: 0.0016
+Epoch 205/400
+9/9 [==============================] - ETA: 0s - loss: 0.0021 - mse: 0.0021
+Epoch 00205: val_mse did not improve from 0.00141
+9/9 [==============================] - 5s 546ms/step - loss: 0.0021 - mse: 0.0021 - val_loss: 0.0016 - val_mse: 0.0016
+Epoch 206/400
+9/9 [==============================] - ETA: 0s - loss: 0.0020 - mse: 0.0020
+Epoch 00206: val_mse improved from 0.00141 to 0.00129, saving model to model.h5
+9/9 [==============================] - 5s 546ms/step - loss: 0.0020 - mse: 0.0020 - val_loss: 0.0013 - val_mse: 0.0013
+Epoch 207/400
+9/9 [==============================] - ETA: 0s - loss: 0.0019 - mse: 0.0019
+Epoch 00207: val_mse did not improve from 0.00129
+9/9 [==============================] - 5s 545ms/step - loss: 0.0019 - mse: 0.0019 - val_loss: 0.0018 - val_mse: 0.0018
+Epoch 208/400
+9/9 [==============================] - ETA: 0s - loss: 0.0026 - mse: 0.0026
+Epoch 00208: val_mse did not improve from 0.00129
+9/9 [==============================] - 5s 542ms/step - loss: 0.0026 - mse: 0.0026 - val_loss: 0.0015 - val_mse: 0.0015
+Epoch 209/400
+9/9 [==============================] - ETA: 0s - loss: 0.0025 - mse: 0.0025
+Epoch 00209: val_mse did not improve from 0.00129
+9/9 [==============================] - 5s 542ms/step - loss: 0.0025 - mse: 0.0025 - val_loss: 0.0016 - val_mse: 0.0016
+Epoch 210/400
+9/9 [==============================] - ETA: 0s - loss: 0.0021 - mse: 0.0021
+Epoch 00210: val_mse did not improve from 0.00129
+9/9 [==============================] - 5s 545ms/step - loss: 0.0021 - mse: 0.0021 - val_loss: 0.0015 - val_mse: 0.0015
+Epoch 211/400
+9/9 [==============================] - ETA: 0s - loss: 0.0020 - mse: 0.0020
+Epoch 00211: val_mse did not improve from 0.00129
+9/9 [==============================] - 5s 542ms/step - loss: 0.0020 - mse: 0.0020 - val_loss: 0.0013 - val_mse: 0.0013
+Epoch 212/400
+9/9 [==============================] - ETA: 0s - loss: 0.0020 - mse: 0.0020
+Epoch 00212: val_mse did not improve from 0.00129
+9/9 [==============================] - 5s 546ms/step - loss: 0.0020 - mse: 0.0020 - val_loss: 0.0014 - val_mse: 0.0014
+Epoch 213/400
+9/9 [==============================] - ETA: 0s - loss: 0.0021 - mse: 0.0021
+Epoch 00213: val_mse improved from 0.00129 to 0.00125, saving model to model.h5
+9/9 [==============================] - 5s 551ms/step - loss: 0.0021 - mse: 0.0021 - val_loss: 0.0013 - val_mse: 0.0013
+Epoch 214/400
+9/9 [==============================] - ETA: 0s - loss: 0.0018 - mse: 0.0018
+Epoch 00214: val_mse did not improve from 0.00125
+9/9 [==============================] - 5s 547ms/step - loss: 0.0018 - mse: 0.0018 - val_loss: 0.0014 - val_mse: 0.0014
+Epoch 215/400
+9/9 [==============================] - ETA: 0s - loss: 0.0019 - mse: 0.0019
+Epoch 00215: val_mse did not improve from 0.00125
+9/9 [==============================] - 5s 545ms/step - loss: 0.0019 - mse: 0.0019 - val_loss: 0.0014 - val_mse: 0.0014
+Epoch 216/400
+9/9 [==============================] - ETA: 0s - loss: 0.0018 - mse: 0.0018
+Epoch 00216: val_mse did not improve from 0.00125
+9/9 [==============================] - 5s 539ms/step - loss: 0.0018 - mse: 0.0018 - val_loss: 0.0016 - val_mse: 0.0016
+Epoch 217/400
+9/9 [==============================] - ETA: 0s - loss: 0.0019 - mse: 0.0019
+Epoch 00217: val_mse improved from 0.00125 to 0.00125, saving model to model.h5
+9/9 [==============================] - 5s 546ms/step - loss: 0.0019 - mse: 0.0019 - val_loss: 0.0013 - val_mse: 0.0013
+Epoch 218/400
+9/9 [==============================] - ETA: 0s - loss: 0.0019 - mse: 0.0019
+Epoch 00218: val_mse did not improve from 0.00125
+9/9 [==============================] - 5s 541ms/step - loss: 0.0019 - mse: 0.0019 - val_loss: 0.0014 - val_mse: 0.0014
+Epoch 219/400
+9/9 [==============================] - ETA: 0s - loss: 0.0019 - mse: 0.0019
+Epoch 00219: val_mse improved from 0.00125 to 0.00118, saving model to model.h5
+9/9 [==============================] - 5s 555ms/step - loss: 0.0019 - mse: 0.0019 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 220/400
+9/9 [==============================] - ETA: 0s - loss: 0.0018 - mse: 0.0018
+Epoch 00220: val_mse did not improve from 0.00118
+9/9 [==============================] - 5s 547ms/step - loss: 0.0018 - mse: 0.0018 - val_loss: 0.0014 - val_mse: 0.0014
+Epoch 221/400
+9/9 [==============================] - ETA: 0s - loss: 0.0019 - mse: 0.0019
+Epoch 00221: val_mse did not improve from 0.00118
+9/9 [==============================] - 5s 541ms/step - loss: 0.0019 - mse: 0.0019 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 222/400
+9/9 [==============================] - ETA: 0s - loss: 0.0017 - mse: 0.0017
+Epoch 00222: val_mse did not improve from 0.00118
+9/9 [==============================] - 5s 544ms/step - loss: 0.0017 - mse: 0.0017 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 223/400
+9/9 [==============================] - ETA: 0s - loss: 0.0017 - mse: 0.0017
+Epoch 00223: val_mse did not improve from 0.00118
+9/9 [==============================] - 5s 539ms/step - loss: 0.0017 - mse: 0.0017 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 224/400
+9/9 [==============================] - ETA: 0s - loss: 0.0017 - mse: 0.0017
+Epoch 00224: val_mse did not improve from 0.00118
+9/9 [==============================] - 5s 537ms/step - loss: 0.0017 - mse: 0.0017 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 225/400
+9/9 [==============================] - ETA: 0s - loss: 0.0017 - mse: 0.0017
+Epoch 00225: val_mse improved from 0.00118 to 0.00115, saving model to model.h5
+9/9 [==============================] - 5s 541ms/step - loss: 0.0017 - mse: 0.0017 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 226/400
+9/9 [==============================] - ETA: 0s - loss: 0.0017 - mse: 0.0017
+Epoch 00226: val_mse did not improve from 0.00115
+9/9 [==============================] - 5s 553ms/step - loss: 0.0017 - mse: 0.0017 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 227/400
+9/9 [==============================] - ETA: 0s - loss: 0.0017 - mse: 0.0017
+Epoch 00227: val_mse improved from 0.00115 to 0.00112, saving model to model.h5
+9/9 [==============================] - 5s 548ms/step - loss: 0.0017 - mse: 0.0017 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 228/400
+9/9 [==============================] - ETA: 0s - loss: 0.0017 - mse: 0.0017
+Epoch 00228: val_mse did not improve from 0.00112
+9/9 [==============================] - 5s 546ms/step - loss: 0.0017 - mse: 0.0017 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 229/400
+9/9 [==============================] - ETA: 0s - loss: 0.0016 - mse: 0.0016
+Epoch 00229: val_mse did not improve from 0.00112
+9/9 [==============================] - 5s 538ms/step - loss: 0.0016 - mse: 0.0016 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 230/400
+9/9 [==============================] - ETA: 0s - loss: 0.0017 - mse: 0.0017
+Epoch 00230: val_mse did not improve from 0.00112
+9/9 [==============================] - 5s 544ms/step - loss: 0.0017 - mse: 0.0017 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 231/400
+9/9 [==============================] - ETA: 0s - loss: 0.0016 - mse: 0.0016
+Epoch 00231: val_mse did not improve from 0.00112
+9/9 [==============================] - 5s 541ms/step - loss: 0.0016 - mse: 0.0016 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 232/400
+9/9 [==============================] - ETA: 0s - loss: 0.0016 - mse: 0.0016
+Epoch 00232: val_mse improved from 0.00112 to 0.00108, saving model to model.h5
+9/9 [==============================] - 5s 543ms/step - loss: 0.0016 - mse: 0.0016 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 233/400
+9/9 [==============================] - ETA: 0s - loss: 0.0018 - mse: 0.0018
+Epoch 00233: val_mse did not improve from 0.00108
+9/9 [==============================] - 5s 546ms/step - loss: 0.0018 - mse: 0.0018 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 234/400
+9/9 [==============================] - ETA: 0s - loss: 0.0018 - mse: 0.0018
+Epoch 00234: val_mse did not improve from 0.00108
+9/9 [==============================] - 5s 546ms/step - loss: 0.0018 - mse: 0.0018 - val_loss: 0.0017 - val_mse: 0.0017
+Epoch 235/400
+9/9 [==============================] - ETA: 0s - loss: 0.0019 - mse: 0.0019
+Epoch 00235: val_mse did not improve from 0.00108
+9/9 [==============================] - 5s 536ms/step - loss: 0.0019 - mse: 0.0019 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 236/400
+9/9 [==============================] - ETA: 0s - loss: 0.0017 - mse: 0.0017
+Epoch 00236: val_mse improved from 0.00108 to 0.00108, saving model to model.h5
+9/9 [==============================] - 5s 540ms/step - loss: 0.0017 - mse: 0.0017 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 237/400
+9/9 [==============================] - ETA: 0s - loss: 0.0016 - mse: 0.0016
+Epoch 00237: val_mse did not improve from 0.00108
+9/9 [==============================] - 5s 541ms/step - loss: 0.0016 - mse: 0.0016 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 238/400
+9/9 [==============================] - ETA: 0s - loss: 0.0016 - mse: 0.0016
+Epoch 00238: val_mse did not improve from 0.00108
+9/9 [==============================] - 5s 550ms/step - loss: 0.0016 - mse: 0.0016 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 239/400
+9/9 [==============================] - ETA: 0s - loss: 0.0018 - mse: 0.0018
+Epoch 00239: val_mse did not improve from 0.00108
+9/9 [==============================] - 5s 548ms/step - loss: 0.0018 - mse: 0.0018 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 240/400
+9/9 [==============================] - ETA: 0s - loss: 0.0017 - mse: 0.0017
+Epoch 00240: val_mse did not improve from 0.00108
+9/9 [==============================] - 5s 544ms/step - loss: 0.0017 - mse: 0.0017 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 241/400
+9/9 [==============================] - ETA: 0s - loss: 0.0016 - mse: 0.0016
+Epoch 00241: val_mse did not improve from 0.00108
+9/9 [==============================] - 5s 542ms/step - loss: 0.0016 - mse: 0.0016 - val_loss: 0.0014 - val_mse: 0.0014
+Epoch 242/400
+9/9 [==============================] - ETA: 0s - loss: 0.0017 - mse: 0.0017
+Epoch 00242: val_mse did not improve from 0.00108
+9/9 [==============================] - 5s 547ms/step - loss: 0.0017 - mse: 0.0017 - val_loss: 0.0015 - val_mse: 0.0015
+Epoch 243/400
+9/9 [==============================] - ETA: 0s - loss: 0.0016 - mse: 0.0016
+Epoch 00243: val_mse did not improve from 0.00108
+9/9 [==============================] - 5s 549ms/step - loss: 0.0016 - mse: 0.0016 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 244/400
+9/9 [==============================] - ETA: 0s - loss: 0.0016 - mse: 0.0016
+Epoch 00244: val_mse improved from 0.00108 to 0.00106, saving model to model.h5
+9/9 [==============================] - 5s 551ms/step - loss: 0.0016 - mse: 0.0016 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 245/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00245: val_mse did not improve from 0.00106
+9/9 [==============================] - 5s 546ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 246/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00246: val_mse improved from 0.00106 to 0.00105, saving model to model.h5
+9/9 [==============================] - 5s 550ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 247/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00247: val_mse improved from 0.00105 to 0.00104, saving model to model.h5
+9/9 [==============================] - 5s 547ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0010 - val_mse: 0.0010
+Epoch 248/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00248: val_mse did not improve from 0.00104
+9/9 [==============================] - 5s 545ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 249/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00249: val_mse did not improve from 0.00104
+9/9 [==============================] - 5s 543ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 250/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00250: val_mse did not improve from 0.00104
+9/9 [==============================] - 5s 540ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 251/400
+9/9 [==============================] - ETA: 0s - loss: 0.0016 - mse: 0.0016
+Epoch 00251: val_mse did not improve from 0.00104
+9/9 [==============================] - 5s 550ms/step - loss: 0.0016 - mse: 0.0016 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 252/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00252: val_mse improved from 0.00104 to 0.00101, saving model to model.h5
+9/9 [==============================] - 5s 547ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0010 - val_mse: 0.0010
+Epoch 253/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00253: val_mse did not improve from 0.00101
+9/9 [==============================] - 5s 552ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 254/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00254: val_mse did not improve from 0.00101
+9/9 [==============================] - 5s 545ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 255/400
+9/9 [==============================] - ETA: 0s - loss: 0.0016 - mse: 0.0016
+Epoch 00255: val_mse did not improve from 0.00101
+9/9 [==============================] - 5s 550ms/step - loss: 0.0016 - mse: 0.0016 - val_loss: 0.0010 - val_mse: 0.0010
+Epoch 256/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00256: val_mse improved from 0.00101 to 0.00096, saving model to model.h5
+9/9 [==============================] - 5s 553ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 9.5764e-04 - val_mse: 9.5764e-04
+Epoch 257/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00257: val_mse did not improve from 0.00096
+9/9 [==============================] - 5s 547ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0013 - val_mse: 0.0013
+Epoch 258/400
+9/9 [==============================] - ETA: 0s - loss: 0.0016 - mse: 0.0016
+Epoch 00258: val_mse did not improve from 0.00096
+9/9 [==============================] - 5s 545ms/step - loss: 0.0016 - mse: 0.0016 - val_loss: 0.0013 - val_mse: 0.0013
+Epoch 259/400
+9/9 [==============================] - ETA: 0s - loss: 0.0016 - mse: 0.0016
+Epoch 00259: val_mse did not improve from 0.00096
+9/9 [==============================] - 5s 549ms/step - loss: 0.0016 - mse: 0.0016 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 260/400
+9/9 [==============================] - ETA: 0s - loss: 0.0018 - mse: 0.0018
+Epoch 00260: val_mse did not improve from 0.00096
+9/9 [==============================] - 5s 544ms/step - loss: 0.0018 - mse: 0.0018 - val_loss: 0.0010 - val_mse: 0.0010
+Epoch 261/400
+9/9 [==============================] - ETA: 0s - loss: 0.0016 - mse: 0.0016
+Epoch 00261: val_mse did not improve from 0.00096
+9/9 [==============================] - 5s 542ms/step - loss: 0.0016 - mse: 0.0016 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 262/400
+9/9 [==============================] - ETA: 0s - loss: 0.0016 - mse: 0.0016
+Epoch 00262: val_mse did not improve from 0.00096
+9/9 [==============================] - 5s 541ms/step - loss: 0.0016 - mse: 0.0016 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 263/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00263: val_mse did not improve from 0.00096
+9/9 [==============================] - 5s 545ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 264/400
+9/9 [==============================] - ETA: 0s - loss: 0.0016 - mse: 0.0016
+Epoch 00264: val_mse did not improve from 0.00096
+9/9 [==============================] - 5s 540ms/step - loss: 0.0016 - mse: 0.0016 - val_loss: 9.5841e-04 - val_mse: 9.5841e-04
+Epoch 265/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00265: val_mse did not improve from 0.00096
+9/9 [==============================] - 5s 544ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 266/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00266: val_mse did not improve from 0.00096
+9/9 [==============================] - 5s 546ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 267/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00267: val_mse did not improve from 0.00096
+9/9 [==============================] - 5s 547ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0010 - val_mse: 0.0010
+Epoch 268/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00268: val_mse did not improve from 0.00096
+9/9 [==============================] - 5s 550ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 9.6436e-04 - val_mse: 9.6436e-04
+Epoch 269/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00269: val_mse improved from 0.00096 to 0.00094, saving model to model.h5
+9/9 [==============================] - 5s 545ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 9.3847e-04 - val_mse: 9.3847e-04
+Epoch 270/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00270: val_mse improved from 0.00094 to 0.00092, saving model to model.h5
+9/9 [==============================] - 5s 542ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 9.1575e-04 - val_mse: 9.1575e-04
+Epoch 271/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00271: val_mse did not improve from 0.00092
+9/9 [==============================] - 5s 546ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 272/400
+9/9 [==============================] - ETA: 0s - loss: 0.0016 - mse: 0.0016
+Epoch 00272: val_mse did not improve from 0.00092
+9/9 [==============================] - 5s 542ms/step - loss: 0.0016 - mse: 0.0016 - val_loss: 9.4288e-04 - val_mse: 9.4288e-04
+Epoch 273/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00273: val_mse did not improve from 0.00092
+9/9 [==============================] - 5s 543ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 274/400
+9/9 [==============================] - ETA: 0s - loss: 0.0017 - mse: 0.0017
+Epoch 00274: val_mse did not improve from 0.00092
+9/9 [==============================] - 5s 547ms/step - loss: 0.0017 - mse: 0.0017 - val_loss: 9.1589e-04 - val_mse: 9.1589e-04
+Epoch 275/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00275: val_mse did not improve from 0.00092
+9/9 [==============================] - 5s 552ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 9.6326e-04 - val_mse: 9.6326e-04
+Epoch 276/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00276: val_mse improved from 0.00092 to 0.00091, saving model to model.h5
+9/9 [==============================] - 5s 552ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 9.1174e-04 - val_mse: 9.1174e-04
+Epoch 277/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00277: val_mse did not improve from 0.00091
+9/9 [==============================] - 5s 549ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 9.4350e-04 - val_mse: 9.4350e-04
+Epoch 278/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00278: val_mse did not improve from 0.00091
+9/9 [==============================] - 5s 552ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0010 - val_mse: 0.0010
+Epoch 279/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00279: val_mse did not improve from 0.00091
+9/9 [==============================] - 5s 549ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0017 - val_mse: 0.0017
+Epoch 280/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00280: val_mse did not improve from 0.00091
+9/9 [==============================] - 5s 564ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 9.1749e-04 - val_mse: 9.1749e-04
+Epoch 281/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00281: val_mse did not improve from 0.00091
+9/9 [==============================] - 5s 548ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0010 - val_mse: 0.0010
+Epoch 282/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00282: val_mse did not improve from 0.00091
+9/9 [==============================] - 5s 548ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 9.1356e-04 - val_mse: 9.1356e-04
+Epoch 283/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00283: val_mse did not improve from 0.00091
+9/9 [==============================] - 5s 542ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 9.8537e-04 - val_mse: 9.8537e-04
+Epoch 284/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00284: val_mse improved from 0.00091 to 0.00091, saving model to model.h5
+9/9 [==============================] - 5s 543ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 9.1032e-04 - val_mse: 9.1032e-04
+Epoch 285/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00285: val_mse did not improve from 0.00091
+9/9 [==============================] - 5s 543ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 9.3805e-04 - val_mse: 9.3805e-04
+Epoch 286/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00286: val_mse improved from 0.00091 to 0.00089, saving model to model.h5
+9/9 [==============================] - 5s 558ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 8.8867e-04 - val_mse: 8.8867e-04
+Epoch 287/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00287: val_mse did not improve from 0.00089
+9/9 [==============================] - 5s 544ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 288/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00288: val_mse did not improve from 0.00089
+9/9 [==============================] - 5s 548ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 0.0010 - val_mse: 0.0010
+Epoch 289/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00289: val_mse did not improve from 0.00089
+9/9 [==============================] - 5s 540ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 8.9403e-04 - val_mse: 8.9403e-04
+Epoch 290/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00290: val_mse did not improve from 0.00089
+9/9 [==============================] - 5s 544ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 291/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00291: val_mse did not improve from 0.00089
+9/9 [==============================] - 5s 540ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 292/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00292: val_mse did not improve from 0.00089
+9/9 [==============================] - 5s 543ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0010 - val_mse: 0.0010
+Epoch 293/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00293: val_mse did not improve from 0.00089
+9/9 [==============================] - 5s 543ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 9.0872e-04 - val_mse: 9.0872e-04
+Epoch 294/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00294: val_mse did not improve from 0.00089
+9/9 [==============================] - 5s 547ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 0.0011 - val_mse: 0.0011
+Epoch 295/400
+9/9 [==============================] - ETA: 0s - loss: 0.0015 - mse: 0.0015
+Epoch 00295: val_mse did not improve from 0.00089
+9/9 [==============================] - 5s 538ms/step - loss: 0.0015 - mse: 0.0015 - val_loss: 0.0014 - val_mse: 0.0014
+Epoch 296/400
+9/9 [==============================] - ETA: 0s - loss: 0.0016 - mse: 0.0016
+Epoch 00296: val_mse did not improve from 0.00089
+9/9 [==============================] - 5s 540ms/step - loss: 0.0016 - mse: 0.0016 - val_loss: 9.8197e-04 - val_mse: 9.8197e-04
+Epoch 297/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00297: val_mse improved from 0.00089 to 0.00088, saving model to model.h5
+9/9 [==============================] - 5s 539ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 8.8002e-04 - val_mse: 8.8002e-04
+Epoch 298/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00298: val_mse did not improve from 0.00088
+9/9 [==============================] - 5s 545ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 9.6099e-04 - val_mse: 9.6099e-04
+Epoch 299/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00299: val_mse did not improve from 0.00088
+9/9 [==============================] - 5s 548ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 0.0012 - val_mse: 0.0012
+Epoch 300/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00300: val_mse did not improve from 0.00088
+9/9 [==============================] - 5s 563ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 8.9814e-04 - val_mse: 8.9814e-04
+Epoch 301/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00301: val_mse did not improve from 0.00088
+9/9 [==============================] - 5s 552ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 9.1028e-04 - val_mse: 9.1028e-04
+Epoch 302/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00302: val_mse did not improve from 0.00088
+9/9 [==============================] - 5s 551ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 0.0015 - val_mse: 0.0015
+Epoch 303/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00303: val_mse did not improve from 0.00088
+9/9 [==============================] - 5s 549ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 9.6193e-04 - val_mse: 9.6193e-04
+Epoch 304/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00304: val_mse did not improve from 0.00088
+9/9 [==============================] - 5s 555ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 9.3930e-04 - val_mse: 9.3930e-04
+Epoch 305/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00305: val_mse improved from 0.00088 to 0.00087, saving model to model.h5
+9/9 [==============================] - 5s 553ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 8.6913e-04 - val_mse: 8.6913e-04
+Epoch 306/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00306: val_mse did not improve from 0.00087
+9/9 [==============================] - 5s 552ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 8.9419e-04 - val_mse: 8.9419e-04
+Epoch 307/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00307: val_mse did not improve from 0.00087
+9/9 [==============================] - 5s 549ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 9.5631e-04 - val_mse: 9.5631e-04
+Epoch 308/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00308: val_mse did not improve from 0.00087
+9/9 [==============================] - 5s 547ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 8.8058e-04 - val_mse: 8.8058e-04
+Epoch 309/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00309: val_mse did not improve from 0.00087
+9/9 [==============================] - 5s 546ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 8.7169e-04 - val_mse: 8.7169e-04
+Epoch 310/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00310: val_mse did not improve from 0.00087
+9/9 [==============================] - 5s 547ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 0.0010 - val_mse: 0.0010
+Epoch 311/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00311: val_mse did not improve from 0.00087
+9/9 [==============================] - 5s 553ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 8.8934e-04 - val_mse: 8.8934e-04
+Epoch 312/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00312: val_mse improved from 0.00087 to 0.00082, saving model to model.h5
+9/9 [==============================] - 5s 551ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 8.2296e-04 - val_mse: 8.2296e-04
+Epoch 313/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00313: val_mse did not improve from 0.00082
+9/9 [==============================] - 5s 548ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 9.0169e-04 - val_mse: 9.0169e-04
+Epoch 314/400
+9/9 [==============================] - ETA: 0s - loss: 0.0014 - mse: 0.0014
+Epoch 00314: val_mse did not improve from 0.00082
+9/9 [==============================] - 5s 546ms/step - loss: 0.0014 - mse: 0.0014 - val_loss: 8.7989e-04 - val_mse: 8.7989e-04
+Epoch 315/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00315: val_mse did not improve from 0.00082
+9/9 [==============================] - 5s 553ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 0.0019 - val_mse: 0.0019
+Epoch 316/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00316: val_mse did not improve from 0.00082
+9/9 [==============================] - 5s 545ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 9.0433e-04 - val_mse: 9.0433e-04
+Epoch 317/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00317: val_mse did not improve from 0.00082
+9/9 [==============================] - 5s 551ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 8.3778e-04 - val_mse: 8.3778e-04
+Epoch 318/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00318: val_mse did not improve from 0.00082
+9/9 [==============================] - 5s 541ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 8.5611e-04 - val_mse: 8.5611e-04
+Epoch 319/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00319: val_mse did not improve from 0.00082
+9/9 [==============================] - 5s 547ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 8.7844e-04 - val_mse: 8.7844e-04
+Epoch 320/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00320: val_mse did not improve from 0.00082
+9/9 [==============================] - 5s 548ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 8.9134e-04 - val_mse: 8.9134e-04
+Epoch 321/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00321: val_mse did not improve from 0.00082
+9/9 [==============================] - 5s 546ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 8.3891e-04 - val_mse: 8.3891e-04
+Epoch 322/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00322: val_mse did not improve from 0.00082
+9/9 [==============================] - 5s 546ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 0.0014 - val_mse: 0.0014
+Epoch 323/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00323: val_mse did not improve from 0.00082
+9/9 [==============================] - 5s 547ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 0.0016 - val_mse: 0.0016
+Epoch 324/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00324: val_mse did not improve from 0.00082
+9/9 [==============================] - 5s 548ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 8.2300e-04 - val_mse: 8.2300e-04
+Epoch 325/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00325: val_mse did not improve from 0.00082
+9/9 [==============================] - 5s 552ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 0.0016 - val_mse: 0.0016
+Epoch 326/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00326: val_mse did not improve from 0.00082
+9/9 [==============================] - 5s 549ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 9.0518e-04 - val_mse: 9.0518e-04
+Epoch 327/400
+9/9 [==============================] - ETA: 0s - loss: 0.0013 - mse: 0.0013
+Epoch 00327: val_mse did not improve from 0.00082
+9/9 [==============================] - 5s 553ms/step - loss: 0.0013 - mse: 0.0013 - val_loss: 8.2827e-04 - val_mse: 8.2827e-04
+Epoch 00327: early stopping
